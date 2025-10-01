@@ -2,7 +2,7 @@
 
 Integrated an AI-powered chatbot into a Porsche-themed website clone to enhance user interaction and automate responses to common queries. This simulates a virtual assistant, providing instant support and showcasing conversational AI features within a sleek, automotive styled frontend.
 
-**Live Website:** [https://kethnulee-weerasinghe.github.io/Porsche-AI-Chatbot/](https://kethnulee-weerasinghe.github.io/Porsche-AI-Chatbot/)
+**Live Website:** [https://kethnulee-weerasinghe.github.io/Porsche-AI-ChatBot/](https://kethnulee-weerasinghe.github.io/Porsche-AI-ChatBot/)
 
 ![Website Preview](./preview.png)
 
