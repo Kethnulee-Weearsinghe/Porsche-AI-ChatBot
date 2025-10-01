@@ -8,14 +8,12 @@ Integrated an AI-powered chatbot into a Porsche-themed website clone to enhance 
 
 ## Overview
 
-This portfolio site is designed to present a clear, concise view of my professional profile. It includes:
+This project is a Porsche-themed website clone augmented with an AI chatbot. It’s meant to serve as a portfolio or demo site where users can interact with a “virtual Porsche assistant” that can answer queries, guide users, and simulate conversational interactions.
 
-- Project highlights with GitHub links
-- Downloadable resume
-- Timeline-based education section
-- Categorized technical skill set
-- Responsive layout for desktop, tablet, and mobile
-- Contact form
+- AI-powered chatbot interface  
+- Automates responses to commonly asked queries  
+- Porsche styling / brand aesthetic  
+- Seamless user experience with frontend & chat overlay 
 
 ## Technologies
 
@@ -23,7 +21,8 @@ This portfolio site is designed to present a clear, concise view of my professio
 - CSS
 - JavaScript
 - React
-- Web3Forms (contact form handling)
+- OpenAI API
+- Fetch API
 
 ## Running Locally
 
@@ -31,4 +30,4 @@ To view or edit the project locally:
 
 ```bash
 git clone https://github.com/Kethnulee-Weerasinghe/Porsche-AI-Chatbot.git
-cd Porsche AI Chatbot
+cd Porsche-AI-Chatbot
