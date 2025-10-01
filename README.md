@@ -8,7 +8,7 @@ Integrated an AI-powered chatbot into a Porsche-themed website clone to enhance 
 
 ## Overview
 
-This project is a Porsche-themed website clone augmented with an AI chatbot. It’s meant to serve as a portfolio or demo site where users can interact with a “virtual Porsche assistant” that can answer queries, guide users, and simulate conversational interactions.
+This project is a Porsche-themed website clone augmented with an AI chatbot. Users can interact with a “virtual Porsche assistant” that can answer queries, guide users, and simulate conversational interactions.
 
 - AI-powered chatbot interface  
 - Automates responses to commonly asked queries  
