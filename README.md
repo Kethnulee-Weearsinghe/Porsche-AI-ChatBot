@@ -1,68 +1,34 @@
 # Porsche AI Chatbot
 
-A polished, responsive landing page that emulates a premium AI chatbot experience inspired by the Porsche brand. Built using HTML, CSS, and JavaScript, this project demonstrates responsive design, smooth animations, and an interactive chat interface.
+Integrated an AI-powered chatbot into a Porsche-themed website clone to enhance user interaction and automate responses to common queries. This simulates a virtual assistant, providing instant support and showcasing conversational AI features within a sleek, automotive styled frontend.
 
-🔗 **Live Website:** [https://kethnulee-weerasinghe.github.io/Porsche-AI-ChatBot/](https://kethnulee-weerasinghe.github.io/Porsche-AI-ChatBot/)
+**Live Website:** [https://kethnulee-weerasinghe.github.io/Porsche-AI-Chatbot/](https://kethnulee-weerasinghe.github.io/Porsche-AI-Chatbot/)
 
 ![Website Preview](./preview.png)
 
----
+## Overview
 
-## Features
+This portfolio site is designed to present a clear, concise view of my professional profile. It includes:
 
-- **Conversational Interface** — A simulated AI chatbot that accepts user input and provides basic interaction.
-- **Mobile-First Design** — Fully responsive across devices for seamless browsing on mobile, tablet, and desktop.
-- **Premium Branding Style** — Inspired by Porsche's design language with clean layouts and elegant UI.
-- **Custom Navigation Menu** — Sections like Models, Build Your Porsche, and Contact to simulate real brand flow.
-- **Legal Disclaimer Footer** — Clarifies that the site is a clone and not affiliated with Porsche AG.
+- Project highlights with GitHub links
+- Downloadable resume
+- Timeline-based education section
+- Categorized technical skill set
+- Responsive layout for desktop, tablet, and mobile
+- Contact form
 
----
+## Technologies
 
-## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React
+- Web3Forms (contact form handling)
 
-- **HTML**
-- **CSS**
-- **JavaScript**
+## Running Locally
 
----
-
-## 📂 Project Structure
-
-```
-Porsche-AI-ChatBot/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   └── (images, icons, etc.)
-└── README.md
-```
-
----
-
-## 💻 Run the Project Locally
-
-To run this project on your local machine:
+To view or edit the project locally:
 
 ```bash
-git clone https://github.com/Kethnulee-Weerasinghe/Porsche-AI-ChatBot.git
-cd Porsche-AI-ChatBot
-open index.html
-```
-
-> Or just open `index.html` directly in your browser after downloading/cloning.
-
----
-
-
-
-## 🙌 Acknowledgments
-
-- Inspired by the design principles of Porsche's official website.
-- Frontend animations and layout based on modern web practices.
-
----
-
-## 📸 Preview
-
-![Porsche AI Chatbot Screenshot](./preview.png)
+git clone https://github.com/Kethnulee-Weerasinghe/Porsche-AI-Chatbot.git
+cd Porsche AI Chatbot
