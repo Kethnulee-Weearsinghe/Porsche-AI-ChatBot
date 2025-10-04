@@ -8,6 +8,8 @@ An intelligent, frontend-focused AI chatbot tailored for Porsche enthusiasts. Bu
 
 ## Overview
 
+A conversational AI chatbot themed around Porsche intended as a demonstration / prototype.
+
 - AI-powered chatbot interface  
 - Automates responses to commonly asked queries  
 - Porsche styling / brand aesthetic  
@@ -29,3 +31,4 @@ To view or edit the project locally:
 ```bash
 git clone https://github.com/Kethnulee-Weerasinghe/Porsche-AI-Chatbot.git
 cd Porsche-AI-Chatbot
+```
